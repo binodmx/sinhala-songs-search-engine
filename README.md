@@ -10,6 +10,8 @@ Simple search engine developed using Elasticsearch to search Sinhala songs
 
 **For detailed steps on installing elasticsearch and sample-site watch this video >> https://www.youtube.com/watch?v=BpLDDuCaOTA&t=81s
 
+**For raw Sinhala songs data check my other repo >> https://github.com/binodmx/sinhala-songs-corpus
+
 ## Screenshots
 
 ![alt text](https://github.com/binodmx/sinhala-songs-search-engine/blob/master/screenshots/1.jpg?raw=true)
