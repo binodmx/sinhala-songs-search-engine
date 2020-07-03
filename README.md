@@ -8,4 +8,9 @@ Simple search engine developed using Elasticsearch to search Sinhala songs
 
 `curl -XPOST http://localhost:9200/_bulk?pretty --data-binary @sinhala-songs.bulk -H "Content-Type: application/json"`
 
-3. Change 
+3. Add baseURL in sample-site/scripts/search.js file as `http://<server-ip>:9200`
+4. Open sample-site/index.html to search Sinhala songs.
+
+## Screeshots
+
+
