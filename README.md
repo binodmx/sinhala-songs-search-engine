@@ -11,6 +11,8 @@ Simple search engine developed using Elasticsearch to search Sinhala songs
 3. Add baseURL in sample-site/scripts/search.js file as `http://<server-ip>:9200`
 4. Open sample-site/index.html to search Sinhala songs.
 
+**For detailed steps on installing elasticsearch and sample-site watch this video >> https://www.youtube.com/watch?v=BpLDDuCaOTA&t=81s
+
 ## Screenshots
 
 ![alt text](https://github.com/binodmx/sinhala-songs-search-engine/blob/master/screenshots/1.jpg?raw=true)
