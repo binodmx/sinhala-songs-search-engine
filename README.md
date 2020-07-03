@@ -13,4 +13,4 @@ Simple search engine developed using Elasticsearch to search Sinhala songs
 
 ## Screeshots
 
-![alt text](https://github.com/binodmx/sinhala-songs-search-engine/blob/master/1.jpg?raw=true)
+![alt text](https://github.com/binodmx/sinhala-songs-search-engine/blob/master/screenshots/1.jpg?raw=true)
